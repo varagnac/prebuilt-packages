@@ -2,9 +2,11 @@
 
 AUR binary packages I built.
 
-## Mediawiki2latex
+## Mediawiki2latex-bin
 
 Upstream: https://sourceforge.net/projects/wb2pdf/
+
+Statically linked, no dependency on Haskell packages.
 
 Modifications:
 
